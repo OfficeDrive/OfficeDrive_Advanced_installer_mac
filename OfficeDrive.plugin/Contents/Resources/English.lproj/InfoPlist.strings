@@ -1,0 +1,4 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "OfficeDrive.plugin";
+NSHumanReadableCopyright = "Copyright 2013 1Site1.nl";
