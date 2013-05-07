@@ -3,14 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>Label</key>
-	<string>net.officedrive.user.agent</string>
-	<key>LimitLoadToSessionType</key>
-	<string>Aqua</string>
+	<string>net.officedrive.agent</string>
 	<key>ProgramArguments</key>
 	<array>
 	  <string>/usr/bin/java</string>
 	  <string>-jar</string>
-	  <string>LocalAppData/OfficeDrive/OfficeDriveClient.jar</string>
+	  <string>$HOME/LocalAppData/OfficeDrive/OfficeDriveClient.jar</string>
 	</array>
 	<key>RunAtLoad</key>
 	<true/>
